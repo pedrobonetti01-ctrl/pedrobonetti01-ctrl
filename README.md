@@ -24,5 +24,5 @@
 ### 📌 Sobre mim & Projetos
 
 * 💻 Focado em desenvolvimento **Front-End**, **Design Responsivo** e **Mobile-First**.
-* 🌐 **Inglês:** Nível profissional (*Professional Working Proficiency*).
+* 🌐 Inglês: Leitura e compressão avançada (documentação técnica e conteúdo em inglês)
 * ⚡ **Projeto em destaque:** [FX Target Project](https://github.com/pedrobonetti01-ctrl/fx-target-project) — Planejador financeiro para metas internacionais com cálculo de câmbio em tempo real via API.
