@@ -42,15 +42,6 @@ Recentemente idealizei e desenvolvi o **FX Target**, um app financeiro que permi
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 <p align="center">
   📩 <b>Sinta-se à vontade para conectar, trocar uma ideia sobre projetos ou explorar oportunidades!</b><br/>
   <a href="https://www.linkedin.com/in/SEU_LINKEDIN_AQUI">
