@@ -1,28 +1,27 @@
-# Olá, eu sou o Pedro Bonetti 👋
+# Olá, eu sou o [Seu Nome] 👋
 
-🚀 **Desenvolvedor Front-End** apaixonado por transformar ideias em interfaces modernas, funcionais e focadas na experiência do usuário (UX/UI).
+Transformo ideias e protótipos em aplicações web de alta performance, funcionais e resilientes.
 
----
-
-### 📬 Vamos nos conectar?
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_LINKEDIN_AQUI)
-[![Portfolio](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=github&logoColor=white)](https://pedrobonetti01-ctrl.github.io/fx-target-project/)
+Como **Desenvolvedor Front-End** e estudante na **FIAP**, priorizo o domínio sólido das bases do ecossistema web — HTML5 semântico, CSS3 modular e JavaScript ES6+ Vanilla — antes de partir para abstrações. Entender a engenharia por trás do código é o que garante produtos estáveis, seguros e escaláveis.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🚀 Projeto em Destaque: FX Target
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+Recentemente idealizei e desenvolvi o **FX Target**, um app financeiro que permite acompanhar cotações de moedas em tempo real e calcular conversões de forma rápida, precisa e intuitiva. Nele apliquei:
+
+- 🔹 **Resiliência técnica:** Tratamento de APIs assíncronas com `AbortController` e fallbacks.
+- 🔹 **Design centrado no usuário:** Figma, Mobile-First e prototipagem interativa.
+- 🔹 **Gestão ágil de escopo:** Priorização e entregas incrementais.
 
 ---
 
-### 📌 Sobre mim & Projetos
+### 🛠️ Stack & Áreas de Interesse
 
-* 💻 Focado em desenvolvimento **Front-End**, **Design Responsivo** e **Mobile-First**.
-* 🌐 Inglês: Leitura e compressão avançada (documentação técnica e conteúdo em inglês)
-* ⚡ **Projeto em destaque:** [FX Target Project](https://github.com/pedrobonetti01-ctrl/fx-target-project) — Planejador financeiro para metas internacionais com cálculo de câmbio em tempo real via API.
+* **Front-End:** JavaScript (ES6+), HTML5, CSS3, Fetch API / Async-Await, Consumo de APIs REST
+* **UX/UI Design:** Figma, Design Responsivo, Prototipagem Interativa, Mobile-First
+* **Boas Práticas:** Git, GitHub, Código Limpo, Metodologias Ágeis (Kanban)
+
+---
+
+📩 **Sinta-se à vontade para conectar, trocar uma ideia sobre projetos ou explorar oportunidades no mercado de tecnologia!**
