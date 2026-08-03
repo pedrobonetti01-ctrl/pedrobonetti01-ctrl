@@ -1,4 +1,4 @@
-# Olá, eu sou o [Seu Nome] 👋
+# Olá, eu sou o Pedro 👋
 
 Transformo ideias e protótipos em aplicações web de alta performance, funcionais e resilientes.
 
